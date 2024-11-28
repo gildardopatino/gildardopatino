@@ -1,4 +1,4 @@
-<div style="background-color: darkgray; color: white;">
+
 <h1 align="center">Hola 👋, Soy Gildardo Patiño</h1>
 <h3 align="center">Un desarrollador apasionado en nuevas tecnologías e Inteligencia Artificial</h3>
 
@@ -39,4 +39,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/furyzero"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="furyzero" /></a></p><br><br>
-</div>
+
